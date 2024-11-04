@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugixuizu.github.io/JxK/sitemap_index.txt
+Sitemap: https://ugixuizu.github.io/Pqa/sitemap_index.txt
+Sitemap: https://ugixuizu.github.io/hLx/sitemap_index.txt
+Sitemap: https://ugixuizu.github.io/jaM/sitemap_index.txt
